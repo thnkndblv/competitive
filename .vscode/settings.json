@@ -1,0 +1,4 @@
+{
+  "python.dataScience.jupyterServerURI": "http://127.0.0.1:4503/?token=3f7dd1ec489ce4cb74dbe2552b4f3ec87b6f66c2021d8c9b",
+  "cloudcode.active-kubeconfig": "minikube"
+}
